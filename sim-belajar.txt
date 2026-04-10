@@ -8,3 +8,4 @@ Ujian Tengah Semester
 6. Kustomisasi dan Deploy R-Shiny [P-11-12] (11 Mei – 22 Mei)
 7. Membangun aplikasi R-Shiny [P-13-14-15] (25 Mei – 12 Jun)
 Ujian Akhir Semester
+Pemberitahuan IPK
